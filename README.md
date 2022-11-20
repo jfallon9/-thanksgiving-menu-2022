@@ -16,9 +16,12 @@ For the upcoming Thanksgiving feast I have put together the following document d
 ## Sides
 
 * Cranberry sauce traditional MBD
+* Pickled Beets MBD
 * [Mac and Cheese](https://www.saveur.com/article/Recipes/Artisanal-Macaroni-and-Cheese)
 * [Creamy Mashed Potatoes](https://www.bonappetit.com/recipe/ultra-creamy-mashed-potatoes)
 
 ## Desert
 
-* Something
+* Apple pie
+* Pumpkin pie
+* Chocolate pecan pie
